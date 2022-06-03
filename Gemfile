@@ -73,3 +73,5 @@ end
 
 gem 'sassc-rails'
 gem "faker", "~> 2.21"
+
+gem "devise", "~> 4.8"
